@@ -1,7 +1,6 @@
 # Learncode | A Feature-Incomplete Codecademy type clone
 
-![Travis-CI Build](https://api.travis-ci.org/Matt-Allen44/Quik.svg)
-![Apache License](https://img.shields.io/github/license/matt-allen44/quik.svg)
+![Apache License](https://img.shields.io/github/license/matt-allen44/learncode.svg)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ### Quick start
