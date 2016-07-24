@@ -1,0 +1,21 @@
+taskname: Javascript Basics: Variables;
+tasktext: Declare a variabled named 'y',Set the value of 'y' to 7,Return the sum of the 'x' and 'y' variables;
+theorytext:Variables are a key element of just about every programming language ever invented, and just like other programming languages, an understanding of the basics of JavaScript variables is key to learning this scripting language. Variables are nothing more than a way to store information in memory. A variable can be a number, a single character, a string of characters making up a word or sentence, or a value indicating whether something is true or false. In JavaScript you declare a variable by giving it a name and assigning a value to it. You can then access this data at any time and, more importantly, change the content of the variable whenever necessary (hence the name variable).; 
+idetext:
+        function addNumbers(){
+
+        //Variables in Javascript are without a type, hence an Int (Number) or 
+        //String (Text) can be defined with the same method as shown below
+
+        var x = 5;
+        x = x + 5;
+
+        //Create a variable named y, set its value to 7
+		
+		var y = 7
+
+        //Add both variables, x and y and then return it
+        // eg. 'return a + b' returns the sum of a and b
+        return x + y
+        }
+        addNumbers();
